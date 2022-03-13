@@ -14,8 +14,8 @@ My main jobs are:
 ## Important packages
 * [unity perception package](https://github.com/Unity-Technologies/com.unity.perception)
 * [datainsights](https://github.com/Unity-Technologies/datasetinsights)
-* [camera calibration in OpenCV)(https://docs.opencv.org/3.4/dc/dbb/tutorial_py_calibration.html)
-* [3D reconstruction in OpenCV)(https://docs.opencv.org/3.4/dc/dbb/tutorial_py_calibration.html)
+* [camera calibration in OpenCV](https://docs.opencv.org/3.4/dc/dbb/tutorial_py_calibration.html)
+* [3D reconstruction in OpenCV](https://docs.opencv.org/3.4/dc/dbb/tutorial_py_calibration.html)
 * [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut)
 
 ## Important tutorials
