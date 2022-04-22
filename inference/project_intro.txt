@@ -1,0 +1,7 @@
+March 16: pipeline check
+March 23: Lily's unity 1000 dataset
+April 1: Reflectiveness (metallic map: 1.0, smoothness: 1.0, reflection probe type: real time)
+April 8: Reflectiveness (metallic map: 1.0, smoothness: 1.0, reflection probe type: baked) -> effective reflection
+April 11: Reflectiveness (metallic map: 0.9, smoothness: 0.9, reflection probe type: baked)
+April 16: Reflectiveness (metallic map: 0.8, smoothness: 0.8, reflection probe type: baked)
+April 17: Reflectiveness (metallic map: 0.75, smoothness: 0.5, reflection probe type: baked)

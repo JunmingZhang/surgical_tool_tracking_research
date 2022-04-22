@@ -140,7 +140,8 @@ def save_dataset_labels(unity_dataset_dir, keypoints, img_list, scorer, total_im
 
     # real case: total_img_num - 2
     for i in range(min([len(dataset), total_img_num, len(img_list)])):
-        keypoint_coords = dataset.get_keypoints(int(img_list.split('.')[0][3:]))
+        # keypoint_coords = dataset.get_keypoints(int(img_list[i].split('.')[0].split('\\')[-1][3:]))
+        keypoint_coords = dataset.get_keypoints(i)
         if not keypoint_coords:
             continue
         relative_filepath = dataset.get_img_filename(i)
